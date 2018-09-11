@@ -1,6 +1,6 @@
-# Cloud SQL Export Terraform Example
+# Cloud SQL Snapshots Terraform Example
 
-Example showing how to use the `terraform-google-gsutil-acl` module to add an ACL for a Cloud SQL instance allowing the instance service account write permission to import/export data to a GCS bucket.
+Example showing how to use the `terraform-google-gsutil-acl` module to add an ACL for a Cloud SQL instance allowing the instance service account permission to import/export data to a GCS bucket.
 
 ## Create the GCS bucket
 
